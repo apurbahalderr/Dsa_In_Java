@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -12,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
