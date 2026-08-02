@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Prefix Sum
 |  |
 | ------- |
