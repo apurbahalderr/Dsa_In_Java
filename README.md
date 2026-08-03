@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting Sort
 |  |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
