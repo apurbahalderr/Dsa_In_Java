@@ -97,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0877-stone-game) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
