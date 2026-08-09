@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0846-hand-of-straights) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0295-find-median-from-data-stream](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0295-find-median-from-data-stream) |
 ## String Matching
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Tree
@@ -157,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
