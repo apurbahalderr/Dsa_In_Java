@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0992-subarrays-with-k-different-integers) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0860-lemonade-change) |
 ## Recursion
 |  |
 | ------- |
