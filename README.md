@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0678-valid-parenthesis-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0005-longest-palindromic-substring) |
+| [0678-valid-parenthesis-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0860-lemonade-change) |
 ## Recursion
@@ -189,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
