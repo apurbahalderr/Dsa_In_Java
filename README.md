@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0135-candy) |
 | [0347-top-k-frequent-elements](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0621-task-scheduler) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0678-valid-parenthesis-string) |
