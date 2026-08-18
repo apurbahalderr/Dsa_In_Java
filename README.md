@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0023-merge-k-sorted-lists) |
+| [0328-odd-even-linked-list](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0355-design-twitter) |
 ## Divide and Conquer
 |  |
