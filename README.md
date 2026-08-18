@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0023-merge-k-sorted-lists) |
 | [0328-odd-even-linked-list](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0355-design-twitter) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0031-next-permutation) |
 | [0295-find-median-from-data-stream](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0295-find-median-from-data-stream) |
