@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0355-design-twitter) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0056-merge-intervals) |
@@ -214,4 +216,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0678-valid-parenthesis-string) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
