@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0135-candy) |
 | [0347-top-k-frequent-elements](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0435-non-overlapping-intervals) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0435-non-overlapping-intervals) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0455-assign-cookies) |
 ## String Matching
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0455-assign-cookies) |
 ## Bracket Sequences
 |  |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0037-sudoku-solver) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
