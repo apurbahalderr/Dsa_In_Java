@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0135-candy) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting Sort
