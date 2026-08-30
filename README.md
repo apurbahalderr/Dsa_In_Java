@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0057-insert-interval) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1248-count-number-of-nice-subarrays) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0048-rotate-image) |
 | [1901-find-a-peak-element-ii](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1901-find-a-peak-element-ii) |
 ## Algorithm X
 |  |
