@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0023-merge-k-sorted-lists) |
 | [0328-odd-even-linked-list](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0355-design-twitter) |
+| [0876-middle-of-the-linked-list](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
 | ------- |
