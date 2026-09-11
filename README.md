@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0992-subarrays-with-k-different-integers) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0875-koko-eating-bananas](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0875-koko-eating-bananas) |
 | [1901-find-a-peak-element-ii](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Tree
 |  |
