@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0355-design-twitter) |
+| [0387-first-unique-character-in-a-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0621-task-scheduler) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0678-valid-parenthesis-string) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0992-subarrays-with-k-different-integers) |
@@ -317,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0543-diameter-of-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
