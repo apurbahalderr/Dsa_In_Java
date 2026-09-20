@@ -330,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
