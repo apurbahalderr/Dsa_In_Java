@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0387-first-unique-character-in-a-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0135-candy) |
 | [0347-top-k-frequent-elements](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0435-non-overlapping-intervals) |
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0387-first-unique-character-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
