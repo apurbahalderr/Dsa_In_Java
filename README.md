@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0076-minimum-window-substring) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0387-first-unique-character-in-a-string) |
