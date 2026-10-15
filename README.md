@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0455-assign-cookies) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting Sort
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
