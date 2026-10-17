@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0076-minimum-window-substring) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0144-binary-tree-preorder-traversal) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
