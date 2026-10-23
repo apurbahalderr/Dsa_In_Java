@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0435-non-overlapping-intervals) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0200-number-of-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1901-find-a-peak-element-ii) |
 ## Algorithm X
 |  |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0547-number-of-provinces) |
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0547-number-of-provinces) |
 ## Database
 |  |
