@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0846-hand-of-straights) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0846-hand-of-straights) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0678-valid-parenthesis-string) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Dynamic Programming
