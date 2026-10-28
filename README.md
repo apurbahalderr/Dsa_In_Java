@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0992-subarrays-with-k-different-integers) |
+| [1020-number-of-enclaves](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1020-number-of-enclaves) |
 | [1901-find-a-peak-element-ii](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1901-find-a-peak-element-ii) |
 ## Algorithm X
 |  |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
 |  |
 | ------- |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1020-number-of-enclaves) |
 ## Database
 |  |
 | ------- |
