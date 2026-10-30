@@ -25,28 +25,16 @@ class Solution {
             }
         }
         while(!q.isEmpty()) {
-            
-            // Determine the top of the queue
             int[] it = q.poll();
-            
-            // Determine the coordinates of the cell
             int row = it[0];
             int col = it[1];
-            
-            // Get the steps
             int steps = it[2];
-            
-            // Update the distance matrix
             dist[row][col] = steps;
             for(int i = 0; i < 4; i++) {
-                
-                // Coordinates of new cell
                 int nRow = row + delRow[i];
                 int nCol = col + delCol[i];
                 if(isValid(nRow, nCol, n, m) && 
                    vis[nRow][nCol] == 0) {
-                    
-                    // Mark the cell as visited
                     vis[nRow][nCol] = 1;
                     q.add(new int[]{nRow, nCol, steps + 1});
                 }
