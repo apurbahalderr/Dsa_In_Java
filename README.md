@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting Sort
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0877-stone-game) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -504,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0547-number-of-provinces) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/apurbahalderr/Dsa_In_Java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
