@@ -1,27 +1,43 @@
 class Solution {
-    public boolean canFinish(int numCourses, int[][] prerequisites) {
-        List<List<Integer>> adj = new ArrayList<>();
-        for (int i = 0; i < numCourses; i++) adj.add(new ArrayList<>());
+    private int[] topoSort(int V, ArrayList<Integer>[] adj) {
+        int[] inDegree = new int[V];
+        for (int i = 0; i < V; i++) {
 
-        for (int[] pre : prerequisites)
-            adj.get(pre[1]).add(pre[0]);
-
-        boolean[] vis = new boolean[numCourses];
-        boolean[] path = new boolean[numCourses];
-
-        for (int i = 0; i < numCourses; i++)
-            if (!vis[i] && dfs(i, adj, vis, path)) return false;
-
-        return true;
+            for (int it : adj[i]) {
+                inDegree[it]++;
+            }
+        }
+        int[] ans = new int[V];
+        int idx = 0;
+        Queue<Integer> q = new LinkedList<>();
+        for (int i = 0; i < V; i++) {
+            if (inDegree[i] == 0)
+                q.add(i);
+        }
+        while (!q.isEmpty()) {
+            int node = q.poll();
+            ans[idx++] = node;
+            for (int it : adj[node]) {
+                inDegree[it]--;
+                if (inDegree[it] == 0)
+                    q.add(it);
+            }
+        }
+        return Arrays.copyOfRange(ans, 0, idx);
     }
-     private boolean dfs(int node, List<List<Integer>> adj, boolean[] vis, boolean[] path) {
-        vis[node] = path[node] = true;
 
-        for (int next : adj.get(node))
-            if (!vis[next] && dfs(next, adj, vis, path)) return true;
-            else if (path[next]) return true;
-            
-        path[node] = false;
-        return false;
+    public boolean canFinish(int N, int[][] arr) {
+        ArrayList<Integer>[] adj = new ArrayList[N];
+        for (int i = 0; i < N; i++)
+            adj[i] = new ArrayList<>();
+        for (int[] it : arr) {
+            int u = it[0];
+            int v = it[1];
+            adj[v].add(u);
+        }
+        int[] topo = topoSort(N, adj);
+        if (topo.length < N)
+            return false;
+        return true;
     }
 }
